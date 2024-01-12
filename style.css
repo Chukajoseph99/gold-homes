@@ -24,6 +24,7 @@ scroll-padding-top: 7rem;
 
 body{
 background: #f7f7f7;
+overflow-x: hidden;
 }
 
 section{
