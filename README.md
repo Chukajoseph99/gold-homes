@@ -1,2 +1,2 @@
 # gold-homes
-Gold Homes
+[Click Here](https://chukajoseph99.github.io/gold-homes/) to view
